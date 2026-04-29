@@ -10,7 +10,7 @@ public record RoleplayPassport(
         int age,
         String gender,
         String registerDate,
-        String faction, // Новое поле
-        String rank    // Новое поле
+        String faction,
+        String rank
 ) {
 }
